@@ -46,7 +46,7 @@ export default function MobileSidebar({
                 size="icon"
                 className="bg-background/40"
               >
-                <X className="h-6 w-6" />
+                <X className="size-5.5!" />
                 <span className="sr-only">{t("mobile.closeMenu")}</span>
               </Button>
             </SheetTrigger>
